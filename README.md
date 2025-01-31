@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Luis Zavaleta
 - 👀 I’m interested in software development
-- 🌱 I’m currently studying Systems Engineering
+- 🌱 I’m currently studying Software Engineering
 - 📫 How to reach me https://github.com/zaval-dev
 
 <!---
