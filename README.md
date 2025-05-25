@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Luis Zavaleta
 - 👀 I’m interested in software development
 - 🌱 I’m currently studying Software Engineering
-- 📫 How to reach me https://github.com/zaval-dev
+- 📫 How to reach me https://github.com/z4val
 
 <!---
 zaval-dev/zaval-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
